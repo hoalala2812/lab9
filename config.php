@@ -1,4 +1,4 @@
-<?php                                                                                                                                                                                                  config.php                                                                                                                                                                                                           <?php
+<?php
 $host = "20.255.57.181";
 $user = "webuser";
 $password = "123456";
