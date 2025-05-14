@@ -1,5 +1,5 @@
-  GNU nano 6.2                                                                                                                                                                                                 config.php                                                                                                                                                                                                           <?php
-$host = "localhost";
+<?php                                                                                                                                                                                                  config.php                                                                                                                                                                                                           <?php
+$host = "20.255.57.181";
 $user = "webuser";
 $password = "123456";
 $database = "studentdb";
